@@ -26,7 +26,6 @@ public class Main {
         while(j<=n1*n2){
             if(j%n1==0 && j%n2==0)
                 ekok=j;
-
             j+=sayi;
         }
         System.out.println("Ekok:"+ekok);
