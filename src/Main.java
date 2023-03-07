@@ -18,7 +18,7 @@ public class Main {
             }
             i++;
         }
-       // System.out.println(ebob);
+       System.out.println("Ebob:"+ebob);
        // int ekok=(n1*n2)/ebob;
        // System.out.println(ekok);
         int ekok=sayi;
@@ -29,6 +29,6 @@ public class Main {
 
             j+=sayi;
         }
-        System.out.println(ekok);
+        System.out.println("Ekok:"+ekok);
     }
 }
